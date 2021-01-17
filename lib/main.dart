@@ -43,6 +43,7 @@ final pagetitle = 'Scan Code';   // This widget is the root of your application.
   }
   class SecondRoute extends StatelessWidget {
     @override
+
     Widget build(BuildContext context) {
       // Ins mimi code or direct to mimi page
       throw UnimplementedError();
